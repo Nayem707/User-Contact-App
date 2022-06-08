@@ -1,0 +1,13 @@
+nav {
+  text-align: center;
+  font-family: 'Audiowide', sans-serif;
+  background-color: aqua;
+  height: 10rem;
+  position: relative;
+}
+ul {
+  list-style-type: none;
+}
+li a {
+  text-decoration: none;
+}
